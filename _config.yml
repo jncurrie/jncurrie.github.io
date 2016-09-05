@@ -1,19 +1,19 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+title: Jacqueline Currie
+header-img: http://thecuriosityhub.com/img/wedobanner.jpg
+email: jacqueline@thecuriosityhub.com
+copyright_name: Curiosity Hub LLC
+description: "Inspiring the next generatin of engineerings"
+baseurl: ""
+url: "http://thecuriosityhub.com"
+twitter_username: jncurrie
+github_username:  jncurrie
+facebook_username:  thecuriosityhub
+email_username:  jacqueline@thecuriosityhub.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-47047791-1
 
 # Build settings
 markdown: kramdown
