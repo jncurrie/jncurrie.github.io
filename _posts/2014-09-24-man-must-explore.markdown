@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 subtitle: Problems look mighty small from 150 miles up
-date: {}
+date: 2014-08-25T12:00:00.000Z
 author: Start Bootstrap
 header-img: img/post-bg-06.jpg
 published: true
