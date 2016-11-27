@@ -1,14 +1,14 @@
 # Site settings
-title: Jacqueline Currie
-header-img: http://thecuriosityhub.com/img/wedobanner.jpg
+title: We Started Something
+header-img: http://westartedsomething.com/img/we-started-something-logo-rectangle.png
 email: jacqueline@thecuriosityhub.com
-copyright_name: Curiosity Hub LLC
-description: "Inspiring the next generatin of engineerings"
+copyright_name: We Started Something
+description: "Now it's your turn"
 baseurl: ""
-url: "http://thecuriosityhub.com"
-twitter_username: jncurrie
+url: "http://westartedsomething.com"
+twitter_username: wss_hq
 github_username:  jncurrie
-facebook_username:  thecuriosityhub
+facebook_username:  westartedsomething
 email_username:  jacqueline@thecuriosityhub.com
 
 # Google Analytics
