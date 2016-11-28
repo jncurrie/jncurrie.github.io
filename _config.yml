@@ -1,7 +1,7 @@
 # Site settings
 title: We Started Something
-header-img: img/main-bg
-email: jacqueline@thecuriosityhub.com
+header-img: img/main-bg.png
+email: westartedsomething2016@gmail.com
 copyright_name: We Started Something
 description: "Now it is your turn"
 baseurl: ""
@@ -12,7 +12,7 @@ email_username:  jacqueline@thecuriosityhub.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-47047791-1
+# google_tracking_id: <enter GA tag here>
 
 # Build settings
 markdown: kramdown
