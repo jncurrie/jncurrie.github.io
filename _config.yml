@@ -1,13 +1,12 @@
 # Site settings
 title: We Started Something
-header-img: http://westartedsomething.com/img/we-started-something-logo-rectangle.png
+header-img: img/we-started-something-logo-rectangle.png
 email: jacqueline@thecuriosityhub.com
 copyright_name: We Started Something
-description: Now it is your turn
-baseurl: ""
-url: ""
+description: "Now it is your turn"
+baseurl: "/"
+url: "http://westartedsomething.com"
 twitter_username: wss_hq
-github_username:  jncurrie
 facebook_username:  westartedsomething
 email_username:  jacqueline@thecuriosityhub.com
 
